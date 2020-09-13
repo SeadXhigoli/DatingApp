@@ -8,7 +8,7 @@ import { ValueComponent } from './value/value.component';
 @NgModule({
   declarations: [	
     AppComponent,
-      ValueComponent
+    ValueComponent
    ],
   imports: [
     BrowserModule,
